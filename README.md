@@ -11,9 +11,8 @@
 
 | 홈  | 경매  | 검색  | 이 달의 작가  | 로그인  |
 |---|---|---|---|---|
-| <img width="30%" src="![screencapture-bug0630-github-io-C-Arte-2024-06-17-16_41_43](https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a) "/>|   |   |   |   |
 |   |   |   |   |   |
-|   |   |   |   |   |
+
 
 <!--
 **bug0630/bug0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
