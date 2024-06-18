@@ -13,7 +13,7 @@
 
 | C'Arte  | Dunkin  | Freshway  | 자취요리사 | Dapara  |
 |---|---|---|---|---|
-| <img width="80%" src="https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a"> | <img width="80%" src="https://github.com/bug0630/bug0630/assets/143781709/c60be26d-ece0-41b1-9152-caea05d8ee10"> | <img width="80%" src="https://github.com/bug0630/bug0630/assets/143781709/b34f52e4-709d-4150-925d-f27325d0a785"> | <img width="80%" src="https://github.com/bug0630/bug0630/assets/143781709/5e298f2d-c92c-4c07-a3ca-356f462ecfba"> | <img width="80%" src="https://github.com/bug0630/bug0630/assets/143781709/86f49146-fb85-44c4-b589-c1a608ade160"> |
+| <img  src="https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a"> | <img  src="https://github.com/bug0630/bug0630/assets/143781709/c60be26d-ece0-41b1-9152-caea05d8ee10"> | <img  src="https://github.com/bug0630/bug0630/assets/143781709/b34f52e4-709d-4150-925d-f27325d0a785"> | <img  src="https://github.com/bug0630/bug0630/assets/143781709/5e298f2d-c92c-4c07-a3ca-356f462ecfba"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/86f49146-fb85-44c4-b589-c1a608ade160"> |
 | (https://bug0630.github.io/C-Arte/)  | (https://bug0630.github.io/Dunkin/)  | https://bug0630.github.io/Freshway/| https://bug0630.github.io/portfolio/teamD/ | 준비중 |
 
 
