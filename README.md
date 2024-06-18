@@ -18,17 +18,16 @@
 <h3>jQuery</h3>  
 <table>
   <tr>
-    <th>홈</th>
-    <th>경매</th>
-    <th>검색</th>
-    <th>이 달의 작가</th>
-    <th>로그인</th>
+    <th>던킨</th>
+    <th>프레시웨이</th>
+  >
   </tr>
   <tr>
-    <td>내용1</td>
-    <td>내용2</td>
-    <td>내용3</td>
-    <td>내용4</td>
-    <td>내용5</td>
+    <td>이미지</td>
+    <td>이미지</td>
+  </tr>
+    <tr>
+    <td>링크</td>
+    <td>링크</td>
   </tr>
 </table>
