@@ -17,4 +17,7 @@
 
 
 
-<h3>jQuery https://bug0630.github.io/Freshway/</h3>
+<h3>jQuery</h3>  
+| 프레시웨이 | 던킨  |   |  
+| --- | --- | --- |
+| :https://bug0630.github.io/Freshway/: |    |   |
