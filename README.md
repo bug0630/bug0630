@@ -9,7 +9,6 @@
   </div>
 </div>
 
-<h3>React https://bug0630.github.io/C-Arte/</h3>
 
 | C'Arte  | Dunkin  | Freshway  | 자취요리사 | Dapara  |
 |---|---|---|---|---|
