@@ -13,7 +13,7 @@
 
 | 홈  | 경매  | 검색  | 이 달의 작가  | 로그인  |
 |---|---|---|---|---|
-|  <img width="80%" src = "https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a">   | <img width="80%" src= "https://github.com/bug0630/bug0630/assets/143781709/c60be26d-ece0-41b1-9152-caea05d8ee10">  |   |   |   |
+|  <img width="80%" src = "https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a">   | <img width="80%" src= "https://github.com/bug0630/bug0630/assets/143781709/c60be26d-ece0-41b1-9152-caea05d8ee10">  | <img width="80%" src= "https://github.com/bug0630/bug0630/assets/143781709/b34f52e4-709d-4150-925d-f27325d0a785">  | <img width="80%" src= "https://github.com/bug0630/bug0630/assets/143781709/5e298f2d-c92c-4c07-a3ca-356f462ecfba">   | <img width="80%" src= "https://github.com/bug0630/bug0630/assets/143781709/b34f52e4-709d-4150-925d-f27325d0a785](https://github.com/bug0630/bug0630/assets/143781709/b9bbf3dc-8420-4142-a99a-b3f11a1142a0">   |
 
 
 <!--
