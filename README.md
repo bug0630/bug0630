@@ -9,7 +9,7 @@
   </div>
 </div>
 
-React https://bug0630.github.io/C-Arte/
+<h3>React https://bug0630.github.io/C-Arte/</h3>
 
 | 홈  | 경매  | 검색  | 이 달의 작가  | 로그인  |
 |---|---|---|---|---|
