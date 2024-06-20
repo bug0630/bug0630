@@ -18,3 +18,4 @@
 
 
 ![alt 메시지](https://github-readme-stats.vercel.app/api?username=bug0630&theme=radical)
+![alt 문구](https://github-readme-stats.vercel.app/api/top-langs/?username=bug0630&theme=default&layout=compact)
