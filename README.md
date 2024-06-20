@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/>
     <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=FFF"/>
   </div>
 </div>
   <h1 align="center">PROJECT</h1>
