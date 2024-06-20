@@ -14,7 +14,7 @@
 
 | [C'Arte](https://bug0630.github.io/C-Arte/) | [Dunkin](https://bug0630.github.io/Dunkin/) | [Freshway](https://bug0630.github.io/Freshway/) | [자취요리사](https://bug0630.github.io/portfolio/teamD/) | Dapara(준비중) |
 |---|---|---|---|---|
-| <img src="img/screencapture-bug0630-github-io-C-Arte-2024-06-18-14_38_30.png"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/b0a4a440-6860-4d63-8441-23216507a2fe"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/7ae5c342-fcc7-4855-9ec8-c22d1197b47c"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/d6bc9f62-1fd2-4621-8215-9195b94c0d39"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/c8ac4003-bbc6-4cd4-a14b-968788940c75"> |
+| <img src="img/screencapture-bug0630-github-io-C-Arte-2024-06-18-14_38_30.png"> | <img src="img/screencapture-bug0630-github-io-Dunkin-2024-06-18-15_35_21.png"> | <img src="img/screencapture-bug0630-github-io-Freshway-2024-06-18-15_37_47.png"> | <img src="img/screencapture-bug0630-github-io-portfolio-teamD-2024-06-18-15_41_19.png"> | <img src="img/메인페이지 반응형.png"> |
 
 <!-- ![alt 메시지](https://github-readme-stats.vercel.app/api?username=bug0630&theme=radical). -->
 
