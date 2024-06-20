@@ -16,6 +16,6 @@
 |---|---|---|---|---|
 | <img src="https://github.com/bug0630/bug0630/assets/143781709/4ef8cb05-c83e-42f3-9b39-4d4d26c5d12a"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/b0a4a440-6860-4d63-8441-23216507a2fe"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/7ae5c342-fcc7-4855-9ec8-c22d1197b47c"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/d6bc9f62-1fd2-4621-8215-9195b94c0d39"> | <img src="https://github.com/bug0630/bug0630/assets/143781709/c8ac4003-bbc6-4cd4-a14b-968788940c75"> |
 
+<!-- ![alt 메시지](https://github-readme-stats.vercel.app/api?username=bug0630&theme=radical). -->
 
-![alt 메시지](https://github-readme-stats.vercel.app/api?username=bug0630&theme=radical)
 ![alt 문구](https://github-readme-stats.vercel.app/api/top-langs/?username=bug0630&theme=default&layout=compact)
