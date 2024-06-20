@@ -21,4 +21,4 @@
 ![alt 문구](https://github-readme-stats.vercel.app/api/top-langs/?username=bug0630&theme=default&layout=compact)
 
 
-![alt 문구](https://github-profile-trophy.vercel.app/?username=bug0630)
+<!--![alt 문구](https://github-profile-trophy.vercel.app/?username=bug0630)-->
