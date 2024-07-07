@@ -12,7 +12,7 @@
 </div>
   <h1 align="center">PROJECT</h1>
 
-  <h2 align="center">이미지를 누르면 주소로 이동합니다</h2>
+  <h3 align="center">이미지를 누르면 주소로 이동합니다</h2>
 
 | [C'Arte](https://github.com/bug0630/C-Arte) | [Dunkin](https://github.com/bug0630/Dunkin) | [Freshway](https://github.com/bug0630/Freshway) | [자취요리사](https://github.com/bug0630/vanillaJS) | Dapara(준비중) |
 |---|---|---|---|---|
