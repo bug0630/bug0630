@@ -12,11 +12,14 @@
 </div>
   <h1 align="center">PROJECT</h1>
 
+  <h2 align="center">이미지를 누르면 주소로 이동합니다</h2>
+
 | [C'Arte](https://github.com/bug0630/C-Arte) | [Dunkin](https://github.com/bug0630/Dunkin) | [Freshway](https://github.com/bug0630/Freshway) | [자취요리사](https://github.com/bug0630/vanillaJS) | Dapara(준비중) |
 |---|---|---|---|---|
 | <a href="https://bug0630.github.io/C-Arte/"><img src="img/screencapture-bug0630-github-io-C-Arte-2024-06-17-16_41_43.png" width="1920"></a> | <a href="https://bug0630.github.io/Dunkin/"><img src="img/screencapture-bug0630-github-io-Dunkin-2024-06-18-15_35_21.png" width="1920"></a> | <a href="https://bug0630.github.io/Freshway/"><img src="img/screencapture-bug0630-github-io-Freshway-2024-06-18-15_37_47.png" width="1920"></a> | <a href="https://bug0630.github.io/VanillaJS/"><img src="img/screencapture-bug0630-github-io-portfolio-teamD-2024-06-18-15_41_19.png" width="1920"></a> | <a href="#"><img src="img/메인페이지 반응형.png" width="1920"></a> |
 
-### 이미지를 누르면 주소로 이동합니다.
+
+
 
 ##
 
